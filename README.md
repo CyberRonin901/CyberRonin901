@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Aditya Nanda</h1>
 
-<!--
-**CyberRonin901/CyberRonin901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend Engineer focused on Distributed Systems, Reactive Applications, and High-Performance APIs.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+| Languages | Backend | Database | Infrastructure | Tools |
+|-----------|----------|----------|---------------|-------|
+| <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=postgres,redis" /> | <img src="https://skillicons.dev/icons?i=rabbitmq,docker,aws,linux" /> | <img src="https://skillicons.dev/icons?i=git,maven" /> |
+
+---
+
+## Projects
+
+### BidWars
+A distributed real-time auction platform built with Spring Boot, Redis, RabbitMQ, PostgreSQL, and WebSockets, capable of sustaining **3,211 bids/sec** with atomic bid validation.
+
+### Reactive API Gateway
+A reactive API gateway using Spring WebFlux, Redis, and Resilience4j that handles **2,200+ requests/sec** with JWT authentication, rate limiting, and fault tolerance.
+
+### URL Redirection Engine
+A Dockerized URL shortening service with PostgreSQL and AWS supporting custom aliases, scheduled expiration, analytics, and comprehensive unit testing.
+
+---
+
+## LeetCode
+
+<p align="center">
+<a href="https://leetcode.com/u/CyberRonin901/">
+<img src="https://leetcard.jacoblin.cool/CyberRonin901?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</a>
+</p>
